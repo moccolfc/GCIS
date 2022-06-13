@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
-titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+title = "Getting Started In Cloud"
+titleSeparator = ""
+titleAddition = ""
+description = "Getting started in cloud is all about helping you get started in using Cloud technologies and tools."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -24,14 +24,14 @@ twitterCreator = "@henkverlinde"
 schemaType = "Organization"
 schemaName = "Doks"
 schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+schemaAuthorTwitter = "https://twitter.com/moccolfc"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaAuthorGitHub = "https://github.com/h-enk"
 schemaLocale = "en-US"
 schemaLogo = "GCISlogo.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "doks.png"
+schemaImage = "GCISlogo.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/getdoks"

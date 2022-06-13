@@ -1,10 +1,10 @@
 ---
 title: "Contributors"
-description: "The Doks contributors."
-date: 2020-10-06T08:50:29+00:00
-lastmod: 2020-10-06T08:50:29+00:00
+description: "Contributors to Getting Started In Cloud"
+date: 2020-10-06T08:50:45+00:00
+lastmod: 2020-10-06T08:50:45+00:00
 draft: false
 images: []
 ---
 
-The Doks contributors.
+Contributors of Getting Started In Cloud
