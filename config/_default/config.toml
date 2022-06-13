@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://salmon-tree-0a8c68b03.1.azurestaticapps.net/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -13,39 +13,6 @@ rssLimit = 10
 defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 # defaultContentLanguageInSubdir = true
-
-# add redirects/headers
-[outputs]
-home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
-section = ["HTML", "RSS", "SITEMAP"]
-
-# remove .{ext} from text/netlify
-[mediaTypes."text/netlify"]
-suffixes = [""]
-delimiter = ""
-
-# add output format for netlify _redirects
-[outputFormats.REDIRECTS]
-mediaType = "text/netlify"
-baseName = "_redirects"
-isPlainText = true
-notAlternative = true
-
-# add output format for netlify _headers
-[outputFormats.HEADERS]
-mediaType = "text/netlify"
-baseName = "_headers"
-isPlainText = true
-notAlternative = true
-
-# add output format for section sitemap.xml
-[outputFormats.SITEMAP]
-mediaType = "application/xml"
-baseName = "sitemap"
-isHTML = false
-isPlainText = true
-noUgly = true
-rel  = "sitemap"
 
 [caches]
   [caches.getjson]
